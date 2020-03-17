@@ -25,7 +25,7 @@
 
 #Exercise 3
 
--f2 
+- f2 
 -f5
 -f1
 -f3
