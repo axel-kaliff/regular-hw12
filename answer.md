@@ -45,4 +45,10 @@
 
 #Exercise 3
 
+The order of O(g(n)) is determined by the highest order funcion in g(n). Therefore (n+1)^3 O(n^3),
+The mathematical definitions of Big O implies that O(g(n)) cannot grow faster than g(n), which is true in this case since n^3 ≤ C * (n + 1)^3.
+
+
+#Exercise 3
+
 
