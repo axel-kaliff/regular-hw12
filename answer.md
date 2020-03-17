@@ -26,22 +26,22 @@
 #Exercise 3
 
 - f2 
--f5
--f1
--f3
--f4
--False, the fastest growing function determines the order (n^2)
--True, the fastest growing function determines the order
--False, Big Theta implies big O, which would mean that O(n^3), which is not true
--True, assume lower limit (n = 1) and you can simplify the left hand side to 1
+- f5
+- f1
+- f3
+- f4
+- False, the fastest growing function determines the order (n^2)
+- True, the fastest growing function determines the order
+- False, Big Theta implies big O, which would mean that O(n^3), which is not true
+- True, assume lower limit (n = 1) and you can simplify the left hand side to 1
 
 #Exercise 3
 
--O(n)
--O(n)
--O(n^2) 
--O(n^2)
--O(n^3)
+- O(n)
+- O(n)
+- O(n^2) 
+- O(n^2)
+- O(n^3)
 
 #Exercise 3
 
